@@ -9,4 +9,7 @@ Este projeto contém o código-fonte utilizado no artigo _Extraction and enrichm
 
 ## Arquivos disponibilizados:
 
-* __c01_experimentos_estrutuados.ipynb__: 
+* __c01_experimentos_estruturados.ipynb__: escolha das features, escolha do modelo e otimização de hiperparâmetros para os dados estruturados;
+* __c02_experimentos_textos.ipynb__: escolha das features, escolha do modelo e otimização de hiperparâmetros para os dados textuais;
+* __c03_experimentos_combinados.ipynb__: combinação dos modelos e análise de desempenho;
+* __datasets/__: datasets anonimizados.
