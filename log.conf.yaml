@@ -1,0 +1,23 @@
+version: 1
+formatters:
+  simple:
+    format: '[%(asctime)-15s][%(filename)s:%(funcName)s:%(lineno)d %(levelname)s] %(message)s'
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: simple
+    stream: ext://sys.stdout
+  file_handler:
+    class: logging.FileHandler
+    level: INFO
+    filename: ./logs.log
+    formatter: simple
+loggers:
+  sampleLogger:
+    level: INFO
+    handlers: [console, file_handler]
+    propagate: no
+root:
+  level: INFO
+  handlers: [console, file_handler]
