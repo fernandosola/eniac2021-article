@@ -8,9 +8,9 @@ Acesso ao artigo completo em:
 https://sol.sbc.org.br/index.php/eniac/article/view/18265
 
 
-Palestra sobre o projeto que deu origem ao artigo:
+Palestra sobre o projeto que deu origem ao artigo no VII Seminário Internacional sobre Análise de Dados na Administração Pública:
 
-https://youtu.be/NuRs_CA9Wdw?t=12315
+https://www.youtube.com/watch?v=NuRs_CA9Wdw&t=12315s
 
 
 ## Autores: 
