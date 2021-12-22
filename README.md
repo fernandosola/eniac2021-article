@@ -2,9 +2,16 @@
 
 Este projeto contém o código-fonte utilizado no artigo _Extraction and enrichment of features to improve complaint text classification performance_ apresentado no ENIAC 2021.
 
+
 Acesso ao artigo completo em:
 
 https://sol.sbc.org.br/index.php/eniac/article/view/18265
+
+
+Palestra sobre o projeto que deu origem ao artigo:
+
+https://youtu.be/NuRs_CA9Wdw?t=12315
+
 
 ## Autores: 
 
